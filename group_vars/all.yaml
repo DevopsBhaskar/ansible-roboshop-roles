@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.devopsbhaskar.fun
+REDIS_HOST: redis.devopsbhaskar.fun
+CATALOGUE_HOST: catalogue.devopsbhaskar.fun
+CART_HOST: cart.devopsbhaskar.fun
+USER_HOST: user.devopsbhaskar.fun
+RABBITMQ_HOST: rabbitmq.devopsbhaskar.fun
+MYSQL_HOST: mysql.devopsbhaskar.fun
+SHIPPING_HOST: shipping.devopsbhaskar.fun
+PAYMENT_HOST: payment.devopsbhaskar.fun
